@@ -1,0 +1,39 @@
+//DataTypes//
+---------------
+
+1) Primitive -
+- 8 datatypes :-
+1)boolean -true/false - 1bit
+2)byte -twos-complement integer - 8 bits 
+3)char - Unicode character - 16 bits
+4)short - twos-complement integer - 16 bits
+5) int - twos-complement intger - 32 bits
+6)long- twos-complement integer - 64 bits
+7)float - IEEE 754 floating point - 32 bits
+8) double - IEEE 754 floating point - 64 bits
+
+2)Non-Primitive-
+
+/// Non-Primitive Data Type or Reference Data Types///
+--------------------------------------------------------
+- The Reference Data Types will contain a memory address of variable values because the reference types won’t store the variable value directly in memory.
+They are strings, objects, arrays, etc. 
+
+1) Strings -
+
+Syntax: Declaring a string
+
+<String_Type> <string_variable> = “<sequence_of_string>”;
+
+Example: 
+
+// Declare String without using new operator 
+String s = "GeeksforGeeks"; 
+
+// Declare String using new operator 
+String s1 = new String("GeeksforGeeks");  
+
+2) Class 
+3) Object
+4) Interface
+5) Array

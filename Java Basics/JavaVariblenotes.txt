@@ -1,0 +1,9 @@
+// Java variables//
+---------------------
+-Types of Variables in Java :-
+
+Now let us discuss different types of variables  which are listed as follows: 
+
+-Local Variables
+-Instance Variables
+-Static Variables
